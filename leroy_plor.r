@@ -1,5 +1,5 @@
 library(move)
 data <- leroy
-plot(leroy, type="l", lwd=2, main="Leroy", bty="n", xlab="Longitude", ylab="Latitude")
+plot(leroy, type="l", col='blue', lwd=2, main="Leroy", bty="n", xlab="Longitude", ylab="Latitude")
 points(leroy, pch=20)
 points(leroy, pch=1, col="firebrick")
