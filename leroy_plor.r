@@ -8,3 +8,4 @@ title(sub="Our dear fisher")
 points(leroy, pch=20)
 points(leroy, pch=1, col="firebrick")
 #something to commit
+
